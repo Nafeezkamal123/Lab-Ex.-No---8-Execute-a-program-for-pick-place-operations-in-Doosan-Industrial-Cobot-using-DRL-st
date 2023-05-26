@@ -40,15 +40,18 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+ ![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/128898953/de7a0a87-f4f3-4982-aa25-558904507099)
 
-//Name:
-MoveJ ................
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/128898953/bbeb6f45-ebad-4c09-babd-0e287d6c6c03)
 
-## output : 
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/128898953/32226dd8-8e69-4f8b-ace1-0de1276a16ad)
 
+## output:
+
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/128898953/a4bbeb9a-6cd1-4c1c-a641-ed6f597b021f)
 
 ## Results: 
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
